@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Twitter: [thapelocodes](twitter.com/thapelocodes)
   - LinkedIn: [in/tm-moumakoe](linkedin.com/in/tm-moumakoe)
-- ⚡ Fun fact: I'm your typical nerd with a hint of _cool_ 😎.
+- ⚡ Fun fact: I'm your typical nerd with a hint of _swag_ 😎.
