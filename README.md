@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with landing a job/gig.
 - 📫 How to reach me:
   - Twitter: [thapelocodes](twitter.com/thapelocodes)
-  - LinkedIn: [in/tm-moumakoe](linkedin.com/in/tm-moumakoe)
+  - LinkedIn: [in/tm-moumakoe](linkedin.com/in/thapelocodes)
 - ⚡ Fun fact: I'm your typical nerd with a hint of _swag_ 😎.
