@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [LyricLounge](github.com/thapelocodes/LyricLounge).
+- 🔭 I’m currently working on [LyricLounge](https://www.github.com/thapelocodes/LyricLounge).
 - 🌱 I’m currently learning how to use GitHub like a pro 💪.
 - 👯‍♂️ I’m looking to collaborate on any start-up web applications.
 - 🤔 I’m looking for help with landing a job/gig.
 - 📫 How to reach me:
-  - Twitter: [thapelocodes](twitter.com/thapelocodes)
-  - LinkedIn: [in/thapelocodes](linkedin.com/in/thapelocodes)
+  - Twitter: [thapelocodes](https://www.twitter.com/thapelocodes)
+  - LinkedIn: [in/thapelocodes](https://www.linkedin.com/in/thapelocodes)
 - ⚡ Fun fact: I'm your typical nerd with a hint of _swag_ 😎.
