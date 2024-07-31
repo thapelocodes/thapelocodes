@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [LyricLounge](github.com/thapelocodes/LyricLounge).
 - 🌱 I’m currently learning how to use GitHub like a pro 💪.
 - 👯‍♂️ I’m looking to collaborate on any start-up web applications.
 - 🤔 I’m looking for help with landing a job/gig.
