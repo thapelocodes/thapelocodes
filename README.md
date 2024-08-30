@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Twitter: [thapelocodes](https://www.twitter.com/thapelocodes)
   - LinkedIn: [in/thapelocodes](https://www.linkedin.com/in/thapelocodes)
-- ⚡ Fun fact: I'm your typical nerd with a hint of _swag_ 😎.
+- ⚡ Fun fact: I'm a lover of art, all forms.
