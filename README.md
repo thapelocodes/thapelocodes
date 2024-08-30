@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on [LyricLounge](https://www.github.com/thapelocodes/LyricLounge).
-- 🌱 I’m currently learning how to use GitHub like a pro 💪.
+- 🌱 I’m currently learning how to use React.js & Next.js like a pro 💪.
 - 👯‍♂️ I’m looking to collaborate on any start-up web applications.
 - 🤔 I’m looking for help with landing a job/gig.
 - 📫 How to reach me:
